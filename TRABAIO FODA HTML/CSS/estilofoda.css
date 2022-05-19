@@ -1,0 +1,135 @@
+/* Default do site - CSS base das páginas*/
+img{
+    display: block;
+    margin: 0px auto 0px auto;
+   
+}
+
+.detalhes {
+    margin: 0px auto 0px auto;
+}
+
+.cd{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:cadetblue ;
+    border-color: white;
+    border: solid white 1px;
+    padding: 10px;
+    
+
+}
+.ce{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    border-width: 60px;
+    border-color: white;
+    border: solid white 1px;
+    padding: 10px;
+}
+
+.topnav{
+    background-color: black;
+    font-size: 30px;
+    display: block;
+    
+}
+.topnav ul li{
+    text-align: right;
+    display: inline; 
+    color: aliceblue; 
+    margin: 4px;  
+}
+.topnav li#sobre{
+    float: right;
+}
+.topnav a{
+    color:white;
+    text-decoration: none;
+    border: solid white 1px;
+    border-radius: 100%;
+    
+
+}
+.topnav a:hover{
+
+    color: black;
+    border-radius: 10%;
+    transition: 0.5s;
+    background-image: url(https://images.newscientist.com/wp-content/uploads/2019/06/03121817/a2wxxe.jpg?width=100);
+}
+
+
+footer{
+    text-align: center;
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 13px;
+    
+}
+
+
+.conteudo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 10px;
+    border: 10px;
+}
+.cabecalho{
+
+    width: 300px;
+    
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+
+h3{
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    padding: 10px;
+}
+
+.conteudo p {
+    text-align: justify;
+    line-height: 1.5;
+
+}
+
+caption{
+    font-size: 20px;
+    font-weight: bold;
+}
+.simbulo-positivo{
+    margin: 0px auto 0px auto;
+    width: 0px;
+   
+}
+#nomedorapaz{
+    font-size: 15px;
+    margin: 10px;
+       
+}
+#diario{
+    width: 30px;
+}
+
+
+
